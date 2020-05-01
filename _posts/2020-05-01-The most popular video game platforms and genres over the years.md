@@ -14,3 +14,4 @@ Once again I made a graph, this time its global sales (in millions) per year by 
 I was surprised at how long some platforms stayed somewhat relevant, the first Playstation for example lasted for nearly 10 years. I never knew that the Xbox came out after the Playstation 2, it makes sense that the Playstation 2 beat out the originally Xbox since they had already released their first console and had more recognition. Its pretty cool that you can see spikes that sort of show where a new generation starts every 5 years.
 
 You can find my notebook <a href="https://colab.research.google.com/drive/1K6ZcIgU8IowdGWZfEcZ-7ph_Yz4XGxP-?usp=sharing">HERE</a>    
+
