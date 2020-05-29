@@ -26,7 +26,7 @@ As you can see from the graph, there are a few colors that we wouldnt want to ta
 
 The next most reliable feature to use in real life is whether or not it bruises. This one made me do a bit of research to understand how it worked but I believe I can explain it well enough now. Basically, if you nick a few parts of the mushroom and it starts to show any color change, it bruises. For the most part, If it bruises its much more likely to be edible (81%), and if it doesnt bruise its more likely to be poisonous although thats only 69% of the time. The graph below shows it nicely.
 
-![Crepe](https://i.gyazo.com/e7f8ca97facac4363c7b7c4491046445.png)
+![Crepe](https://i.gyazo.com/e28e0b3dc3ab59f52b16d0a60574add2.png)
 <br>
 
 Overall this dataset gave me a good exploration into the edibility of mushrooms and was fun to work with. However I would once again like to say that you should never use any of this knowledge without doing more research first, this dataset was originally made over 30 years ago and its possibly outdated or filled with wrong infomation. Please find and use an actual survival guide if you plan on ever being in the wild and or in a situation where you need to know which types of mushrooms are edible.
