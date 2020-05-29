@@ -1,4 +1,4 @@
-<p style="color:red">This is a paragraph.</p>
+<body bgcolor="#rrggbb">gadsgfg
 Before going into what I found using this dataset I would like to say that you shouldnt use this knowledge without doing more research, I have little to no knowledge on mushrooms and for all I know, the information in the dataset could be wrong or inaccurate. All I am doing in this blog post is exploring this dataset making connections and predictions for fun. 
 ![Crepe](https://i.gyazo.com/96614313865713a18f5cd781dd99fed0.png)
 <br>
@@ -11,3 +11,5 @@ Before going into what I found using this dataset I would like to say that you s
 
 You can find my notebook <a href="https://colab.research.google.com/drive/1kf_AvXFXsRE280SIYOV19M0v2RYLARe9?usp=sharing">HERE</a>    
 You can find the data set <a href="https://www.kaggle.com/uciml/mushroom-classification">HERE</a>
+</body>
+</html>
