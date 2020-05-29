@@ -22,5 +22,3 @@ Before going into what I found using this dataset I would like to say that you s
 
 You can find my notebook <a href="https://colab.research.google.com/drive/1kf_AvXFXsRE280SIYOV19M0v2RYLARe9?usp=sharing">HERE</a>    
 You can find the data set <a href="https://www.kaggle.com/uciml/mushroom-classification">HERE</a>
-</body>
-</html>
