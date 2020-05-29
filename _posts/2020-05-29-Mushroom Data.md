@@ -1,4 +1,10 @@
-WARNING
+<body> 
+    <font size="6"
+          face="verdana"
+          color="green"> 
+            GeeksforGeeks! 
+        </font> 
+    <br> 
 Before going into what I found using this dataset I would like to say that you shouldnt use this knowledge without doing more research, I have little to no knowledge on mushrooms and for all I know, the information in the dataset could be wrong or inaccurate. All I am doing in this blog post is exploring this dataset making connections and predictions for fun. 
 ![Crepe](https://i.gyazo.com/96614313865713a18f5cd781dd99fed0.png)
 <br>
